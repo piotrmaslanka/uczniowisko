@@ -1,0 +1,11 @@
+<specification>
+<table name="category">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="name" type="varchar" len="30" />
+    <field name="fk_overmode" type="int" signed="no" null="no" />
+    <field name="fk_category" type="int" signed="no" null="no" />
+    	<!--  root category, if zero then this is the root category -->
+    <primary name="id" />
+    <index name="fk_overmode" />
+</table>
+</specification>

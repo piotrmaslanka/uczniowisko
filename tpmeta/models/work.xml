@@ -1,0 +1,17 @@
+<specification>
+<table name="work">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="fk_category" type="int" signed="no" />
+    <field name="title" type="varchar" len="100" null="no" />
+    <field name="fk_account" type="int" signed="no" null="no" />
+    <field name="usedworks" type="varchar" len="255" />
+    <field name="downloads" type="int" null="no" default="0" />
+    <field name="added" type="int" signed="no" null="no" />
+    <field name="comment" type="text" />
+    <field name="grade" type="tinyint" />
+    <field name="mode" type="tinyint" signed="no" null="no" default="0"/> 
+    	<!-- 1 - accepted, 0 - pending review -->
+    <primary name="id" />
+    <index name="fk_category" />
+</table>
+</specification>

@@ -1,0 +1,8 @@
+<specification>
+<!-- actually overmode is a synthetic construct to support fused presentations, mid and high school works -->
+<table name="overmode">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="tag" type="varchar" len="40" />
+    <primary name="id" />
+</table>
+</specification>

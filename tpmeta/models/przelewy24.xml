@@ -1,0 +1,12 @@
+<specification>
+<table name="przelewy24">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+	<field name="fk_worder" type="int" signed="no" null="no" />
+    <field name="phase" type="int" default="0" />
+    	<!-- 0 - waiting for server response, 1 - server responded with a failure, 2 - paid -->
+    <field name="p24_order_id_full" type="int" signed="no" default="null"/>
+    <field name="p24_order_id" type="int" signed="no" default="null" />
+    <field name="error" type="varchar" len="10" signed="no" default="null"/>
+    <primary name="id" />
+</table>
+</specification>

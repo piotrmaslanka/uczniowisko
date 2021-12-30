@@ -1,0 +1,403 @@
+{\rtf1\ansi\ansicpg1250\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1045\deflangfe1045{\fonttbl{\f0\froman\fcharset238\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f36\fswiss\fcharset238\fprq2{\*\panose 00000000000000000000}Verdana;}{\f39\froman\fcharset0\fprq2 Times New Roman;}{\f38\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f40\froman\fcharset161\fprq2 Times New Roman Greek;}
+{\f41\froman\fcharset162\fprq2 Times New Roman Tur;}{\f42\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f43\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f44\froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\f45\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f399\fswiss\fcharset0\fprq2 Verdana;}{\f398\fswiss\fcharset204\fprq2 Verdana Cyr;}{\f400\fswiss\fcharset161\fprq2 Verdana Greek;}{\f401\fswiss\fcharset162\fprq2 Verdana Tur;}
+{\f404\fswiss\fcharset186\fprq2 Verdana Baltic;}{\f405\fswiss\fcharset163\fprq2 Verdana (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \snext0 Normal;}{\s2\ql \li0\ri0\sl360\slmult1
+\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext0 \styrsid11882742 heading 2;}{\*\cs10 \additive \ssemihidden Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}{\s15\ql \fi284\li284\ri0\widctlpar
+\tx567\aspalpha\aspnum\faauto\adjustright\rin0\lin284\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext15 \styrsid14226393 Body Text Indent;}{\s16\qj \fi284\li284\ri0\sl360\slmult1\widctlpar
+\tx567\aspalpha\aspnum\faauto\adjustright\rin0\lin284\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext16 \styrsid14226393 Body Text Indent 2;}{
+\s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext17 \styrsid12263816 heading;}{
+\s18\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext18 \styrsid12263816 Normal (Web);}{
+\s19\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext19 \styrsid12263816 head;}{
+\s20\ql \li0\ri0\sa120\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \sbasedon0 \snext20 \styrsid11882742 Body Text;}{\*\cs21 \additive \ul\cf2 \sbasedon10 \styrsid12723002 Hyperlink;}
+{\s22\ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 \fs24\cf1\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 \snext22 \styrsid151981 Default;}}{\*\latentstyles\lsdstimax156\lsdlockeddef0}{\*\pgptbl {\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0
+\ri0\sb0\sa0}{\pgp\ipgp0\itap0\li0\ri0\sb0\sa0}}{\*\rsidtbl \rsid151981\rsid594992\rsid611606\rsid788747\rsid789056\rsid1200757\rsid1861551\rsid2251577\rsid2450811\rsid2835288\rsid3046032\rsid3091018\rsid3092917\rsid3156088\rsid3227215\rsid3560230
+\rsid3636555\rsid3939128\rsid4667952\rsid4941305\rsid5062879\rsid5259016\rsid6449020\rsid6495141\rsid6763622\rsid6822026\rsid7035980\rsid7229759\rsid7538999\rsid7672047\rsid8257689\rsid9052610\rsid9708193\rsid10031224\rsid10445483\rsid10683712
+\rsid10956802\rsid11020241\rsid11547196\rsid11749177\rsid11882742\rsid12263816\rsid12584911\rsid12723002\rsid12980298\rsid12990949\rsid13193577\rsid14176306\rsid14226393\rsid14310301\rsid14513809\rsid14962536\rsid15221697\rsid15555116\rsid15612358
+\rsid15744342\rsid15936022\rsid16131900\rsid16256880}{\*\generator Microsoft Word 11.0.5604;}{\info{\author Daniel}{\operator Daniel}{\creatim\yr2007\mo12\dy12\hr22\min38}{\revtim\yr2007\mo12\dy15\hr18\min39}{\version56}{\edmins96}{\nofpages18}
+{\nofwords3651}{\nofchars21909}{\nofcharsws25509}{\vern24689}}\margl1417\margr1417\margt1417\margb1417 \widowctrl\ftnbj\aenddoc\hyphhotz425\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\horzdoc\dghspace120\dgvspace120\dghorigin1701
+\dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale100\nolnhtadjtbl\rsidroot14226393 \fet0\sectd \linex0\headery708\footery708\colsx708\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\fs56\insrsid9052610 
+\par }\pard \qc \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13193577 {\fs56\insrsid13193577 
+\par 
+\par 
+\par GOSPODARKA KRAJOWA I MI\'caDZYNARODOWA OPARTA NA WIEDZY.
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid13193577 
+\par }{\insrsid14226393 
+\par }{\insrsid13193577 
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577 
+\par 
+\par }{\b\insrsid13193577\charrsid789056 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..
+\par }{\fs18\insrsid13193577\charrsid789056 Imi\'ea i nazwisko
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..
+\par }{\fs18\insrsid13193577\charrsid789056 nr indeksu
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..
+\par }{\fs20\insrsid16131900\charrsid789056 rok, }{\fs20\insrsid13193577\charrsid789056 kierunek studi\'f3w
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\b\insrsid13193577\charrsid789056 \'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85\'85..
+\par }{\fs20\insrsid13193577\charrsid789056 rodzaj studi\'f3w
+\par }\pard \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid13193577 {\insrsid13193577 
+\par 
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid13193577 
+\par }\pard \qc \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0\pararsid13193577 {\fs32\insrsid13193577\charrsid13193577 Spis tre\'9cci}{\fs32\insrsid13193577 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8257689 {\insrsid13193577\charrsid8257689 I Wst\'eap
+\par }{\insrsid14310301\charrsid8257689 II Rola }{\insrsid12584911\charrsid8257689 wiedzy}{\insrsid14310301\charrsid8257689 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8257689 {\insrsid14310301\charrsid8257689 2.1 Rola wiedzy w gospodarkach wybranych pa\'f1stw
+\par }\pard\plain \s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid10031224 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid10031224 2.2 Podej\'9c
+cie do procesu edukacji w tworzeniu gospodarki opartej na wiedzy
+\par }\pard \s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8257689 {\insrsid8257689\charrsid8257689 
+\par }\pard\plain \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid8257689 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid14310301\charrsid8257689 III Rodzaje system\'f3w gospodarczych w wsp\'f3
+\'b3czesnym \'9cwiecie
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8257689 {\insrsid14310301\charrsid8257689 3.1 Gospodarka rynkowa  }{\insrsid13193577\charrsid8257689 
+\par }{\insrsid14310301\charrsid8257689 3.2 Gospodarka tradycyjna
+\par 3.3 Gospodarka centralnie planowana}{\insrsid13193577 
+\par }{\insrsid8257689\charrsid8257689 
+\par }{\insrsid6822026\charrsid8257689 IV Rozw\'f3j gospodarczy i sposoby jego pomiaru
+\par 4.1 Miary rozwoju gospodarczego}{\insrsid13193577\charrsid8257689 
+\par }{\insrsid6822026\charrsid8257689 4.2 Rola handlu zagranicznego w rozwoju gospodarczym}{\insrsid6822026 
+\par }{\insrsid594992 V Wnioski}{\insrsid594992\charrsid8257689 
+\par }\pard \ql \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0 {\insrsid6822026 
+\par }{\insrsid13193577 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\insrsid7538999 I }{\insrsid13193577 Wst\'eap}{\insrsid14226393 
+\par }{\insrsid13193577 
+\par 
+\par }{\insrsid14226393 
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid14226393 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid14226393\charrsid14226393 Wsp\'f3\'b3czesny \'9cwiat wydaje si\'ea by\'e6
+ coraz bardziej ujednolicony. Dominuje demokratyczny model sprawowania w\'b3adzy oraz wolnorynkowa gospodarka. Upowszechnienie tych system\'f3w sk\'b3oni\'b3o nawet niekt\'f3rych u}{\insrsid611606 czonych do og\'b3oszenia  tzw.}{
+\insrsid14226393\charrsid14226393    ,, ko\'f1ca historii\'94. Przygl\'b9daj\'b9c si\'ea jednak dok\'b3adniej dostrzegamy, \'bfe owe og\'f3lne wzorce s\'b9 realizowane w ka\'bfdym pa\'f1stwie w nieco inny spos\'f3b. Okazuje si\'ea, \'bfe odmiennie rozk
+\'b3adaj\'b9 one pewne cele i priorytety. Mo\'bfemy stwierdzi\'e6, \'bfe standardy polityczne i gospodarcze nak\'b3adaj\'b9 si\'ea na okre\'9clon\'b9 kultur\'ea i tradycj\'ea danego spo\'b3ecze\'f1stwa tworz\'b9
+c charakterystyczny model. Czynniki te sprawiaj\'b9, \'bfe znaczne r\'f3\'bfnice mog\'b9 zachodzi\'e6 nawet mi\'eadzy pa\'f1stwami s\'b9siaduj\'b9cymi ze sob\'b9, czego znakomitym przyk\'b3adem mog\'b9 by\'e6 Niemcy i Francja.
+\par Mimo i\'bf geneza nowoczesnej gospodarki}{\insrsid611606  opartej na wiedzy}{\insrsid14226393\charrsid14226393  i demokracji s\'b9 interesuj\'b9ce w niniejszej pracy zajm}{\insrsid10683712 \'ea}{\insrsid14226393\charrsid14226393  si\'ea
+ jedynie pierwszym z}{\insrsid1861551 agadnieniem. W tym miejscu chcia\'b3}{\insrsid14226393\charrsid14226393 by}{\insrsid15744342 m}{\insrsid14226393\charrsid14226393  uczyni\'e6 tak\'bfe drugie zastrze\'bf
+enie. Mianowicie opis tworzenia nowoczesnej gospodarki, b\'eadzie odnoszony jedynie do przemian zwi\'b9zanych z kszta\'b3towaniem si\'ea systemu kapitalistycznego. Pomini\'eata zostanie droga tego procesu spo\'b3
+ecznego realizowana w systemie socjalistycznym. Tematyka ta wymaga odr\'eabnego opracowania.
+\par Zasadniczym celem niniejszej pracy b\'eadzie ukazanie nieekonomicznych, kulturowych uwarunkowa\'f1 nowoczesnej gospodarki kapitalistycznej. Poszukiwanie wp\'b3ywu kultury na gospodark\'ea jest podej\'9c
+ciem odmiennym od  stosowanego w ekonomii. Z punktu widzenia ekonomisty gospodarka jest systemem opisywanym przez \'9ccis\'b3e wzory i prawa. Zasady poda\'bfy, popytu, u\'bfyteczno\'9cci, czy racjonalnego wyboru czyni\'b9 z tego obszaru przestrze\'f1 ca
+\'b3kowicie przewidywalnych dzia\'b3a\'f1 ekonomicznych, niezale\'bfnych od kultury, czy zwyczaju. Taka jest teoria. Praktyka jednak pokazuje, \'bfe dzia\'b3aj\'b9cy ludzie nie zawsze post\'eapuj\'b9 w zgodzie z zamys\'b3em teoretyk\'f3w. Cz\'b3
+owiek nie zawsze kieruje si\'ea u\'bfyteczno\'9cci\'b9, czy racjonalno\'9cci\'b9 i w wielu sytuacjach okazuje si\'ea by\'e6 nieprzewidywalny.
+\par Badaj\'b9c genez\'ea nowoczesnej gospodarki dotrzemy do warunkuj\'b9cych i poprzedzaj\'b9cych j\'b9 obszar\'f3w kultury. Termin ,,kultura\'94 intuicyjnie rozumiany przez ka\'bfdego rodzi du\'bfe problemy, gdy chcemy go zdefiniowa\'e6. U\'bf
+ywanie go w najprzer\'f3\'bfniejszych kontekstach sprawia du\'bfe k\'b3opoty z jednoznacznym i zrozumia\'b3ym jego okre\'9cleniem. Dla przyk\'b3adu wystarczy poda\'e6 podzia\'b3y na kultur\'ea materialn\'b9 i duchow\'b9, osobist\'b9 i narodow\'b9, czy te
+\'bf uj\'eacie kultury jako obszaru odr\'eabnego od sztuki (co mia\'b3o do niedawna miejsce w nazwie Ministerstwa Kultury i Sztuki).Dlatego nie chc\'b9c wik\'b3a\'e6 si\'ea w tworzenie w\'b3asnej charakterystyki kultury definicj\'ea
+ jej przyjmiemy za Jonathanem Turnerem jako system symboli s\'b3u\'bf\'b9cy do organizacji interakcji i kierowania zachowaniem. Mo\'bfemy wyr\'f3\'bfni\'e6 w nim takie podsystemy jak j\'eazyk, technologia, warto\'9c
+ci, przekonania, normy oraz zasoby wiedzy w\'b3asnej nabytej w toku do\'9cwiadcze\'f1, z regu\'b3y nieu\'9cwiadamianej i stosowanej odruchowo }{\insrsid4941305 .}{\insrsid14226393\charrsid14226393 
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid14226393 
+\par 
+\par 
+\par 
+\par 
+\par }{\insrsid14310301 
+\par 
+\par }{\insrsid8257689 
+\par 
+\par 
+\par 
+\par }{\insrsid14310301 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid14310301 {\insrsid13193577 II }{\insrsid12990949 Rola wiedzy}{\insrsid3939128\charrsid3939128 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid3939128 
+\par }{\insrsid14310301 
+\par 
+\par }{\insrsid7229759 2.1 Rola wiedzy w gospodarkach wybranych pa\'f1stw
+\par 
+\par }{\insrsid14310301\charrsid3939128 
+\par }{\insrsid3939128\charrsid3939128 W zakresie}{\insrsid7229759  wiedzy rozwa\'bfa}{\insrsid3939128\charrsid3939128 my rol\'ea nauki, j\'eazyka oraz wiedzy osobistej pojedynczego cz\'b3owieka. S\'b9 one elementem wsp\'f3
+lnej wielowiekowej tradycji europejskiej. Jest ona wyj\'b9tkowa i odmienna od pozosta\'b3ych kontynent\'f3w. Wiedz\'ea tu tworzon\'b9 zawsze przenika\'b3o d\'b9\'bfenie do jedynego i absolutnie pewnego okre\'9clenia rzeczywisto\'9cci. Nauka  kumuluj\'b9
+c kolejne osi\'b9gni\'eacia nastawiona by\'b3a na post\'eap i rozw\'f3j. Czynnikiem to stymuluj\'b9cym by\'b3a dodatkowo ch\'ea\'e6 wykluczenia innych stanowisk jako b\'b3\'eadnych co jest szczeg\'f3lnie widoczne na przyk\'b3
+adzie filozofii. Wszystko to tworzy\'b3o z wiedzy skuteczne narz\'eadzie opanowywania \'9cwiata. Uj\'eacie takie doprowadzi\'b3o do powstania empirycznych nauk \'9ccis\'b3ych maj\'b9cych bezpo\'9c
+rednie zastosowanie w praktyce. Innowacje techniczne tworzone poprzez zastosowanie zasad fizyki i chemii sta\'b3y si\'ea podstaw\'b9 konstruowania maszyn i urz\'b9dze\'f1 stosowanych nast\'eapnie w przemy\'9cle. By\'b3o to zaplecze techniczne dla powstaj
+\'b9cych kapitalistycznych przedsi\'eabiorstw.
+\par Przemiany dotyczy\'b3y r\'f3wnie\'bf j\'eazyka. Nast\'b9pi\'b3o upowszechnienie si\'ea elitarnej dotychczas umiej\'eatno\'9cci pisania. Coraz powszechniej by\'b3y u\'bfywane j\'eazyki narodowe. Rozszerza\'b3 si\'ea zas\'f3b s\'b3
+ownictwa specjalistycznego jak i uniwersalnego, niezale\'bfnego od sytuacji, nisko}{\insrsid1200757  }{\insrsid3939128\charrsid3939128 kontekstowego, umo\'bfliwiaj\'b9cego szybk\'b9 i dok\'b3adn\'b9 komunikacj\'ea w ka\'bfdych warunkach. Wi\'b9\'bfe si
+\'ea z tym tak\'bfe rozw\'f3j systemu kszta\'b3cenia zwi\'b9zany z powstawaniem sieci szk\'f3\'b3 oraz}{\insrsid6449020  tworzeniem program\'f3w edukacji. }{\insrsid3939128\charrsid3939128 Wykszta\'b3cenie specjalizuj\'b9ce staje si\'ea elementem ko\'f1cz
+\'b9cym proces edukacji, a nie tym co nadaje mu pierwotny kierunek.
+\par Wszystko to zmienia obraz \'9cwiata postrzegany przez ludzi. Staj\'b9 si\'ea oni bogatsi w wiedz\'ea oraz do\'9cwiadczenie. Przek\'b3ada si\'ea to na rodzaj kapita\'b3u intelektualnego u\'b3atwiaj\'b9cego adaptacj\'ea w r\'f3\'bfnych warunkach. Oczywi\'9c
+cie opisywane tu procesy by\'b3y d\'b3ugotrwa\'b3e, niemniej jednak w XVIII wieku osi\'b9gn\'ea\'b3y pewien punkt przeci\'b9\'bfenia, po kt\'f3rym musia\'b3 nast\'b9pi\'e6 prze\'b3om. Przygotowane podstawy techniczne i intelektualne sta\'b3y si\'ea pod
+\'b3o\'bfem rozwoju kapitalizmu.
+\par Zupe\'b3nie inaczej przedstawia\'b3o si\'ea to w innych kr\'eagach kulturowych. Cywilizacje arabska i chi\'f1ska nie wytworzy\'b3y nauk w znaczeniu europejskim. Chiny zatopione w konserwatywnej tradycji konfucjanizmu mimo wielu po\'bfytecznych wynalazk
+\'f3w nie potrafi\'b3y ich wykorzysta\'e6. Dominuj\'b9cy system religii nie wy\'b3oni\'b3 z siebie nauk s\'b3u\'bf\'b9cych technice przemys\'b3owej. Brakowa\'b3o tam technologii wykraczaj\'b9cych poza zakres rozbudowanych manufaktur. Tak\'bf
+e niezwykle skomplikowany j\'eazyk chi\'f1ski nie m\'f3g\'b3 si\'ea rozpowszechni\'e6 w pe\'b3nej postaci.
+\par Podobnie rzecz si\'ea mia\'b3a w \'9cwiecie arabskim. Mimo styczno\'9cci z europejsk\'b9 kultur\'b9 \'9cr\'f3dziemnomorsk\'b9 nie skorzysta\'b3 z jej efekt\'f3w. Poza rozpowszechnionym przez Europejczyk\'f3w systemem cyfr nie mo\'bfe poszczyci\'e6 si\'ea
+ wybitnymi osi\'b9gni\'eaciami, naukowcami, czy wynalazczo\'9cci\'b9. Zamkni\'eaty we w\'b3asnej kulturze nie wytworzy\'b3 pewnego stanu napi\'eacia warunkuj\'b9cego przemiany ku kapitalizmowi. 
+\par Okre\'9clone cechy nauki, techniki i j\'eazyka, w kt\'f3rym by\'b3y przekazywane sta\'b3y si\'ea w kulturze europejskiej jednym z czynnik\'f3w wieszcz\'b9cych nadej\'9ccie kapitalizmu. Czym\'9c takim nie mog\'b3y poszczyci\'e6 si\'ea pozosta\'b3
+e cywilizacje. }{\insrsid3939128 
+\par }{\insrsid6449020\charrsid3939128 
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid14226393 
+\par }\pard\plain \s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid7229759 2.2 }{\insrsid2251577 Podej\'9c
+cie do procesu edukacji w }{\insrsid10031224 tworzeniu }{\insrsid2251577 gospodar}{\insrsid10031224 ki }{\insrsid2251577 opartej na wiedzy
+\par }{\insrsid6449020 
+\par }\pard\plain \s18\ql \fi720\li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid2251577 
+Gospodarka oparta na wiedzy wymaga innego podej\'9ccia do procesu nauki i edukacji. Mimo nowych poszukiwa\'f1 zasady \'b3\'b9czenia nauki z edukacj\'b9 w dalszym ci\'b9gu wydaj\'b9 si\'ea niezast\'b9pione. Badania naukowe w szko\'b3ach wy\'bfszych i wsp
+\'f3\'b3praca z gospodark\'b9 s\'b3u\'bf\'b9 doskonaleniu jako\'9cci kszta\'b3cenia i s\'b9 wa\'bfn\'b9 metod\'b9 transferu wiedzy do praktyki. Wiedza zachowana tylko w \'9cwiadomo\'9cci ludzi nie ma wi\'eakszego znaczenia spo\'b3
+ecznego. Rzeczywistej warto\'9cci nabiera dopiero po spo\'bfytkowaniu i po oszacowaniu jej skutk\'f3w. Z\~dobrze u\'bfytej wiedzy czerpie korzy\'9cci pracownik, uczelnia, przedsi\'eabiorstwo i spo\'b3ecze\'f1stwo. Przyjmuje si\'ea, \'bfe skuteczno\'9c\'e6
+ \'9ccie\'bfek transferu wiedzy do praktyki wynosi: 50 proc. \endash  przez student\'f3w, 5 proc. \endash  doktorant\'f3w, 10 proc. \endash  s\'b3uchaczy studi\'f3w podyplomowych i 25 proc. przez pracownik\'f3w nauki
+\par }\pard\plain \s17\ql \li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid12263816 
+Warunkiem powodzenia programu rozwoju jest wykorzystanie potencja\'b3u intelektualnego, gospodarczego i przyrodniczego dla realizacji cel\'f3w ekonomicznych i spo\'b3ecznych. Sprzyja\'e6 temu powinien reformowany system edukacji od przedszkola do ko\'f1
+ca kszta\'b3cenia ustawicznego zawieraj\'b9cy elementy przedsi\'eabiorczo\'9cci i innowacyjno\'9cci niezb\'eadne dla rozwoju spo\'b3ecznego i poprawy konkurencyjno\'9cci gospodarki.}{\insrsid5259016 
+ Aktualnie zjawisko takie obserwujemy w krajach postkomunistycznych czyli tak\'bfe w}{\insrsid12263816  Polsce}{\insrsid5259016 . Pa\'f1stwom tego typu}{\insrsid12263816  potrzebne s\'b9 pr\'ea\'bfne, zintegrowane o\'9crodki akademickie zapewniaj\'b9
+ce wysok\'b9 jako\'9c\'e6 kszta\'b3cenia na poziomie wy\'bfszym, sprzyjaj\'b9ce tworzeniu gospodarki dynamicznej, konkurencyjnej, opartej na wiedzy, zdolnej do trwa\'b3ego wzrostu i rozwoju. }{\insrsid2835288 W edukacji n}{\insrsid12263816 ale\'bfy tworzy
+\'e6 warunki i mechanizmy, by w najbli\'bfszych latach umacnia\'b3y si\'ea najlepsze uczelnie publiczne i niepubliczne potrafi\'b9ce konkurowa\'e6 na rynku naukowym i edukacyjnym. Trzeba te\'bf tworzy\'e6 mechanizmy, by uczelnie kszta\'b3ci\'b3y wi\'ea
+cej in\'bfynier\'f3w do wdra\'bfania i rozwijania najnowszych technologii. }{\insrsid2835288 
+\par Tylko dzia\'b3ania ukierunkowane na kszta\'b3cenie tego typu specjalist\'f3w zapewni\'b9 w przysz\'b3o\'9cci rynkowi pracy  kadr\'ea na odpowiednim poziomie, co przyczyni si\'ea bezpo\'9crednio do wzrostu gospodarczego. 
+Tymczasem problemem w tych krajach jest n}{\insrsid12263816 iewsp\'f3\'b3mierny do potrzeb wzrost kszta\'b3cenia na kierunkach ekonomicznych, prawnych, pedagogicznych i humanistycznych. Nale\'bfy tworzy\'e6 warunki, by w wi\'eakszym ni\'bf
+ dotychczas zakresie podejmowa\'b3y problemy gospodarcze pa\'f1stwa oraz wykazywa\'b3y wra\'bfliwo\'9c\'e6 na problemy \'bfycia spo\'b3ecznego. Dzisiaj nie tylko post\'eap technologiczny oraz osi\'b9ganie prymatu w innowacyjno\'9c
+ci i technologiach, ale tak\'bfe rozwi\'b9zywanie problem\'f3w spo\'b3ecznych staje si\'ea wa\'bfnym zadaniem. Trzeba zatem zwi\'eaksza\'e6 u\'bfyteczno\'9c\'e6 bada\'f1 i wiedzy dla rozwoju cel\'f3w gospodarczych i spo\'b3ecznych pa\'f1stwa.
+\par }\pard \s17\ql \fi720\li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid12263816 Rozw\'f3
+j nowoczesnych technik i technologii oraz nowe zasady organizacji produkcji generowa\'e6 b\'ead\'b9 zapotrzebowanie na specjalist\'f3w wyposa\'bfonych w najnowsz\'b9 wiedz\'ea, co stawia wysokie wymagania w zakresie elastyczno\'9cci program\'f3
+w i unowocze\'9cniania procesu nauczania. Od pocz\'b9tku edukacji szkolnej zwi\'eaksza\'e6 nale\'bfy zainteresowanie m\'b3odzie\'bfy matematyk\'b9 i innymi naukami \'9ccis\'b3ymi, a nast\'eapnie studiami na kierunkach technicznych. W\~wi\'eakszym ni\'bf
+ dotychczas zakresie trzeba wykorzystywa\'e6 w edukacji najlepszych uczonych z Polskiej Akademii Nauk i jednostek badawczo-rozwojowych. Na wielu kierunkach wzrosn\'b9\'e6 powinna liczba nauczycieli akademickich, by przywr\'f3ci\'e6 w\'b3a\'9c
+ciwy kontakt student\'f3w z kadr\'b9 dydaktyczn\'b9, szczeg\'f3lnie z profesorami.
+\par }\pard\plain \s18\ql \fi720\li0\ri0\sb100\sa100\sbauto1\saauto1\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid12263816 
+Gospodarka oparta na wiedzy nie jest cudown\'b9 recept\'b9, kt\'f3ra bezbole\'9cnie rozwi\'b9\'bfe problemy, lecz systemem, kt\'f3ry daje nadziej\'ea na osi\'b9ganie cel\'f3w w narastaj\'b9cej konkurencji. Tego systemu nie mo\'bfna kupi\'e6 lecz trzeba s
+tworzy\'e6 tak, by by\'b3 sp\'f3jny ze stanem gospodarki i jej rozwojem. Mimo wielu dzia\'b3a\'f1 dystans, jaki istnieje mi\'eadzy Polsk\'b9 a krajami UE w zakresie innowacyjno\'9cci i tworzenia gospodarki opartej na wiedzy, maleje zbyt wolno.
+\par Polskie przedsi\'eabiorstwa w coraz to nowych sektorach poddawane s\'b9 globalnej konkurencji. Musz\'b9 przyjmowa\'e6 narzucane im standardy, co stwarza znaczne trudno\'9cci. Bez wsparcia naukowego cz\'easto nie s\'b9 w stanie skutecznie konkurowa\'e6
+. Przedsi\'eabiorstwa oczekuj\'b9 konkretnych rozwi\'b9za\'f1, a mniej ch\'eatnie w\'b3\'b9czaj\'b9 si\'ea do wsp\'f3\'b3finansowania bada\'f1. Szacuje si\'ea, \'bfe ponad 85 proc. wynik\'f3w bada\'f1 nie nadaje si\'ea do wdro\'bf
+enia, co wymaga nowego podej\'9ccia do ich planowania i finansowania. Skuteczno\'9c\'e6 zastosowania wiedzy zale\'bfy od tw\'f3rc\'f3w, systemu zarz\'b9dzania wiedz\'b9 i od przygotowania przedsi\'eabiorstw do jej przyj\'eacia. Rozwojowi bada\'f1
+ o charakterze wdro\'bfeniowym nie sprzyja te\'bf fakt, \'bfe ponad 95 proc. firm zagranicznych nie korzysta z osi\'b9gni\'ea\'e6 polskich uczonych.
+\par Konkurencyjne mo\'bfe si\'ea okaza\'e6 proponowanie kszta\'b3cenia w unikatowych dyscyplinach z wykorzystaniem najnowszych technik i metod nauczania. Nowoczesna uczelnia nie mo\'bfe tylko naucza\'e6, lecz powinna tworzy\'e6 warunki do uczenia si\'ea
+ w okre\'9clonej dyscyplinie, przygotowywa\'e6 do dzia\'b3ania w zespole, przewodzenia, zarz\'b9dzania i rozwijania w\'b3asnej wyobra\'9fni. Krajowa i mi\'eadzynarodowa mobilno\'9c\'e6 student\'f3w w Polsce jest wci\'b9\'bf symboliczna, gdy\'bf
+ wynosi 0,3-0,5 proc., gdy w\~krajach UE \endash  2,3 proc. Zak\'b3ada si\'ea, \'bfe w najbli\'bfszych latach w Unii Europejskiej powinna wzrosn\'b9\'e6 do 10 proc. Jest to wa\'bfny element tworzenia europejskiej przestrzeni wiedzy i edukacji.
+\par }\pard\plain \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid14226393 
+\par }{\insrsid14310301 
+\par 
+\par 
+\par }{\insrsid14226393 
+\par 
+\par }{\insrsid8257689 
+\par }\pard \qc \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid14310301 {\insrsid7229759\charrsid8257689 III }{\insrsid15221697\charrsid8257689 Rodzaje system\'f3w gospodarczych w wsp\'f3\'b3czesnym \'9cwiecie}{
+\insrsid14226393\charrsid8257689 
+\par }{\b\insrsid8257689\charrsid14310301 
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid7229759 3.1}{\insrsid14310301\charrsid14310301  }{\insrsid14310301 Gospodarka rynkowa  }{\insrsid8257689 
+\par }{\insrsid15221697 \line Gospodarka rynkowa }{\insrsid13193577  to mechanizm decyduj\'b9cy o tym co ma by\'e6 produkowane, jak i dla kogo. Ceny na dane towary wyznaczane s\'b9 przez \'84gr\'ea\'94 popytu i poda\'bfy. \line Jej podstawowymi cechami s\'b9
+: w\'b3asno\'9c\'e6 prywatna, wolno\'9c\'e6 wyboru, w kt\'f3rej konsumenci decyduj\'b9 w jaki spos\'f3b wyda\'e6 swoje dochody a firmy w okre\'9cleniu co i jak b\'ead\'b9 produkowa\'e6. Jeszcze jedna bardzo wa\'bfna cech\'b9
+ gospodarki rynkowej jest konkurencja, kt\'f3ra sprawia, \'bfe sprzedawca musi ca\'b3y czas by\'e6 konkurencyjny by pozosta\'e6 na rynku. W ten spos\'f3b konsumenci maj\'b9 okazje wybiera\'e6 gdzie chc\'b9 robi\'e6 zakupy. Dzi\'eaki konkurencji powstaj
+\'b9 nowe miejsca pracy co teoretycznie zmniejsza bezrobocie. Teoretycznie bo w praktyce jest zupe\'b3nie inaczej. Coraz wi\'eacej firm og\'b3asza sw\'b9 upad\'b3o\'9c\'e6
+ co powoduje likwidacje miejsc pracy. Jednak powstawanie nowych miejsc pracy nie przewy\'bfsza tych likwidowanych. }{\insrsid7229759 
+\par }{\insrsid8257689 
+\par 
+\par }{\insrsid7229759 3.2}{\insrsid14310301\charrsid14310301  }{\insrsid14310301 Gospodarka tradycyjna}{\insrsid8257689 
+\par }{\insrsid13193577 \line Gospodarka tradycyjna - wyst\'eapuje w spo\'b3ecze\'f1stwie o niskim standardzie \'bfycia np. w Afryce czy Azji. Wielko\'9c\'e6 produkcji w tych krajach nie przekracza niezb\'eadnego minimum koniecznego do prze\'bfycia.}{
+\insrsid7229759 
+\par }{\insrsid8257689 
+\par 
+\par 
+\par 
+\par }{\insrsid7229759 3.3}{\insrsid14310301\charrsid14310301  }{\insrsid14310301 Gospodarka centralnie planowana}{\insrsid8257689 
+\par }{\insrsid13193577 \line Gospodarka centralnie planowana - rz\'b9d decyduje o sposobie wykorzystywania czynnik\'f3w produkcji i okre\'9cla co, jak i dla kogo ma by\'e6 produkowane. W\'b3asno\'9c\'e6 prywatna ograniczona jest jedynie do maj\'b9
+tku osobistego ewentualnie ma\'b3ych firm i niewielkich dzia\'b3ek rolniczych. Zmiany cen s\'b9 wynikiem decyzji rz\'b9du. Produkowane jest to co ma by\'e6 produkowane a nie to co jest w danej chwili niezb\'eadne. W razie niedoboru jakiego\'9c
+ towaru stosowana jest forma reglamentacji np. kartki - tak bardzo popularne w Polsce w latach \rquote 80-ch. Opr\'f3cz sektora prywatnego wyst\'eapuje tu tak\'bfe sektor publiczny, w kt\'f3rym wykonuje si\'ea us\'b3ugi czy produkuje towary, kt\'f3re s
+\'b9 dla przedsi\'eabiorstw prywatnych ma\'b3o zyskowne b\'b9d\'9f poch\'b3aniaj\'b9 zbyt du\'bfy kapita\'b3.\line Ponadto istnieje tak\'bfe podzia\'b3 na gospodarke otwart\'b9, kt\'f3ra jest powi\'b9
+zana z innymi dziedzinami gospodarki przez import i eksport produkt\'f3w, czynnik\'f3w wytw\'f3rczych czy transakcje finansowe.\line Istnieje tak\'bfe inny rodzaj gospodarki, gospodarka zamkni\'eata - odizolowana od reszty \'9cwiata, znana tak\'bf
+e jako spo\'b3eczna gospodarka rynkowa.}{\insrsid11882742 
+\par }{\insrsid6822026 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8257689 {\insrsid6822026 
+\par }\pard \qc \li0\ri0\sb100\sa100\nowidctlpar\faauto\rin0\lin0\itap0\pararsid8257689 {\insrsid6822026 IV Rozw\'f3j gospodarczy i sposoby jego pomiaru
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid15612358 
+\par }{\insrsid13193577 \line }{\insrsid6822026 4.1}{\insrsid7229759  Miary rozwoju gospodarczego}{\insrsid11547196 
+\par }{\insrsid15612358 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid13193577\charrsid12723002 Aby m\'f3c okre\'9cli\'e6 poziom rozwoju gospodarczego kraju, stworzono Produkt }{
+\insrsid11882742\charrsid12723002 Krajowy }{\insrsid13193577\charrsid12723002 Brutto. Jest to pieni\'ea\'bfny wyraz bie\'bf\'b9cej warto\'9cci rynkowej wszystkich d\'f3br i us\'b3ug finalnych wytworzonych w gospodarce narodowej w danym okresie. }{
+\insrsid11882742\charrsid12723002 
+\par Wzrost PKB oznacza, \'bfe w danej gospodarce dokonuj\'b9 si\'ea zmiany ilo\'9cciowe polegaj\'b9ce na wzro\'9ccie podstawowych wielko\'9cci makroekonomicznych tj. produkcja, zatrudnienie, inwestycje, konsumpcja, rozmiary eksportu.
+\par Je\'bfeli takim zmianom ilo\'9cciowym towarzysz\'b9 zmiany jako\'9cciowe to oznacza to, \'bfe w danej gospodarce wyst\'eapuj\'b9 procesy rozwoju gospodarczego. \'afeby mo\'bfna by\'b3o m\'f3wi\'e6 o rozwoju gospodarczym musi wyst\'eapowa\'e6
+ nie tylko wzrost zatrudnienia ale te\'bf musi wzrosn\'b9\'e6 jako\'9c\'e6 zatrudnianych os\'f3b czyli w\'9cr\'f3d zatrudnionych powinny dominowa\'e6 osoby o wy\'bfszym poziomie umiej\'eatno\'9cci i kwalifikacji. Jest to wa\'bfna przes\'b3
+anka poprawy jako\'9cci istniej\'b9cego kapita\'b3u rzeczowego w kierunku jego unowocze\'9cnienia poprzez zastosowanie post\'eapu technicznego. 
+\par Rozw\'f3j gospodarczy wymaga okre\'9clonych proces\'f3w restrukturyzacji gospodarki polegaj\'b9cych na zwi\'eakszeniu udzia\'b3\'f3w nowoczesnych dziedzin w wytwarzaniu dochodu narodowego za\'9c zmniejszaniu udzia\'b3u dziedzin przestarza\'b3ych.
+\par W kr\'f3tkim okresie czasu o wzro\'9ccie }{\insrsid12723002\charrsid12723002 PKB}{\insrsid11882742\charrsid12723002  decyduj\'b9 czynniki popytowe. Czynniki popytowe obejmuj\'b9 popyt na dobra wszystkich podmiot\'f3w gospodarczych. Determinuj\'b9
+ one wielko\'9c\'e6 faktycznie wytworzonego dochodu narodowego w gospodarce. \'a3\'b9czny agregatowy popyt }{\insrsid3092917 
+\par }{\insrsid11882742\charrsid12723002 decyduje o wielko\'9cci produkcji faktycznej i faktycznego dochodu narodowego w kr\'f3tkim okresie czasu.}{\insrsid11882742 
+\par }{\insrsid3092917 
+\par }{\insrsid15612358 
+\par 
+\par }{\insrsid15612358\charrsid12723002 
+\par }{\insrsid8257689 
+\par }{\insrsid12723002\charrsid12723002 Do por\'f3wna\'f1 mi\'eadzynarodowych PKB przelicza si\'ea wed\'b3ug bie\'bf\'b9cego kursu wymiany, zazwyczaj na dolary ameryka\'f1skie albo wed\'b3ug parytetu si\'b3y nabywczej - lepiej oddaj\'b9cego realn\'b9 warto
+\'9c\'e6 dochodu obywateli. W por\'f3wnaniach mi\'eadzynarodowych warto\'9cci PKB liczonego wed\'b3ug parytetu si\'b3y nabywczej r\'f3\'bfni\'b9 si\'ea wzgl\'eadem liczonego wed\'b3ug kursu nominalnego na korzy\'9c\'e6 kraj\'f3w o ni\'bf
+szym poziomie cen, zazwyczaj s\'b3abiej rozwini\'eatych, a na niekorzy\'9c\'e6 kraj\'f3w drogich.}{\insrsid12723002 
+\par }{\insrsid3092917\charrsid12723002 
+\par }{\insrsid12723002\charrsid12723002 PKB nale\'bfy odr\'f3\'bfni\'e6 od produktu narodowego brutto (PNB), kt\'f3ry jest miar\'b9 warto\'9cci wszystkich d\'f3br i us\'b3ug wytworzonych przez obywateli danego pa\'f1stwa oraz przez osoby prawne z siedzib\'b9
+ na jego terenie niezale\'bfnie od tego, czy podmioty te dzia\'b3aj\'b9 w kraju, czy za granic\'b9. W ten spos\'f3b w sk\'b3ad np. PNB Polski wchodz\'b9 dochody polskich podmiot\'f3w za granic\'b9 oraz polskie PKB pomniejszone o dochody podmiot\'f3w
+ obcych.
+\par Czyste PKB jest z\'b3\'b9 miar\'b9 dobrobytu spo\'b3ecze\'f1stwa, poniewa\'bf nie uwzgl\'eadnia liczby ludno\'9cci. Z tego powodu jako miar\'ea dobrobytu powszechnie u\'bfywa si\'ea PKB per capita, czyli PKB w przeliczeniu na osob\'ea
+; czyste PKB jest wyznacznikiem wielko\'9cci gospodarki.}{\insrsid12723002 
+\par }{\insrsid12980298 P}{\insrsid12723002 oni\'bfej }{\insrsid12980298 widzimy}{\insrsid12723002  odpowiednio - 25 pa\'f1stw o najwy\'bfszym }{\insrsid12723002\charrsid12723002 PKB per capita}{\insrsid12723002  oraz czysty PKB}{
+\insrsid12723002\charrsid12723002 
+\par }\pard\plain \s20\qj \fi567\li0\ri0\sa120\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\insrsid12980298 
+\par }{\insrsid3092917 
+\par 
+\par 
+\par 
+\par 
+\par }{\insrsid6822026 
+\par 
+\par 
+\par }\pard \s20\qj \li0\ri0\sa120\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid3092917 
+\par }\pard \s20\qj \fi567\li0\ri0\sa120\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid3092917 
+\par }{\b\lang1033\langfe1045\langnp1033\insrsid12980298\charrsid6763622 PKB per capita w USD}{\b\lang1033\langfe1045\langnp1033\insrsid11882742\charrsid6763622 
+\par }{\f36\fs20\lang1033\langfe1045\langnp1033\insrsid12980298\charrsid6763622 
+\par }\pard\plain \qj \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 \fs24\lang1045\langfe1045\cgrid\langnp1045\langfenp1045 {\lang1033\langfe1045\langnp1033\insrsid12980298\charrsid6763622 1\~Luksemburg 80
+\~471
+\par 2\~Irlandia 44\~087
+\par }{\insrsid12980298\charrsid9708193 3\~Norwegia 43 574 4
+\par }{\insrsid12980298\charrsid6763622 4\~Stany Zjednoczone 43\~444
+\par 5\~}{\field\fldedit{\*\fldinst {\insrsid12980298\charrsid6763622  HYPERLINK "http://pl.wikipedia.org/wiki/Islandia" \\o "Islandia" }{\lang1033\langfe1045\langnp1033\insrsid14513809\charrsid6763622 {\*\datafield 
+10d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4c00000068007400740070003a002f002f0070006c002e00770069006b006900700065006400690061002e006f00720067002f00770069006b0069002f00490073006c0061006e0064006900610000000000}}
+}{\fldrslt {\cs21\insrsid12980298\charrsid6763622 Islandia}}}{\insrsid12980298\charrsid6763622  40\~277
+\par 6\~}{\field\fldedit{\*\fldinst {\insrsid12980298\charrsid6763622  HYPERLINK "http://pl.wikipedia.org/wiki/Hongkong" \\o "Hongkong" }{\lang1033\langfe1045\langnp1033\insrsid14513809\charrsid6763622 {\*\datafield 
+10d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b4c00000068007400740070003a002f002f0070006c002e00770069006b006900700065006400690061002e006f00720067002f00770069006b0069002f0048006f006e0067006b006f006e00670000000000}}
+}{\fldrslt {\cs21\insrsid12980298\charrsid6763622 Hongkong}}}{\insrsid12980298\charrsid6763622  38\~127
+\par 7\~}{\field\fldedit{\*\fldinst {\insrsid12980298\charrsid6763622  HYPERLINK "http://pl.wikipedia.org/wiki/Szwajcaria" \\o "Szwajcaria" }{\lang1033\langfe1045\langnp1033\insrsid14513809\charrsid6763622 {\*\datafield 
+10d0c9ea79f9bace118c8200aa004ba90b0200000003000000e0c9ea79f9bace118c8200aa004ba90b5000000068007400740070003a002f002f0070006c002e00770069006b006900700065006400690061002e006f00720067002f00770069006b0069002f0053007a00770061006a006300610072006900610000000000}
+}}{\fldrslt {\cs21\insrsid12980298\charrsid6763622 Szwajcaria}}}{\insrsid12980298\charrsid6763622  37\~369
+\par 8\~Dania 36\~549
+\par 9\~Austria 36\~031
+\par }{\insrsid12980298\charrsid9708193 10\~Kanada 35\~494
+\par 11\~Holandia 35\~078
+\par 12\~Wielka Brytania 35\~051
+\par 13\~Finlandia 34\~819
+\par }{\insrsid12980298\charrsid6763622 14\~Belgia 34\~478
+\par 15\~Szwecja 34\~409
+\par 16\~Katar 33\~049
+\par 17\~Australia 32\~938
+\par 18\~Singapur 32\~867
+\par }{\insrsid12980298\charrsid9708193 19\~Japonia 32\~647
+\par 20\~Niemcy 31\~095
+\par 21\~W\'b3ochy 30\~732
+\par 22\~Francja 30\~693
+\par 23\~Izrael 30\~464
+\par 24\~}{\insrsid12980298 Tajwan}{\insrsid12980298\charrsid9708193  30\~084
+\par 25\~Zjednoczone Emiraty Arabskie 29}{\insrsid12980298 \~}{\insrsid12980298\charrsid9708193 142
+\par }\pard \ql \fi720\li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid13193577 \line }{\insrsid7672047 
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\b\insrsid12980298\charrsid3092917 PKB ca\'b3kowity}{\b\insrsid6495141\charrsid3092917  w mln USD}{\b\insrsid7538999\charrsid3092917 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid12980298\charrsid3092917 1 Stany Zjednoczone 13 228\~391
+\par 2 Japonia 4 420\~955
+\par 3 Niemcy 2 890\~092
+\par 4 Chiny 2 554\~200
+\par 5 Wielka Brytania 2 362\~580
+\par 6 Francja 2 227\~330
+\par 7 W\'b3ochy 1 841\~042
+\par 8 Kanada 1 273\~144
+\par 9 Hiszpania 1 216\~736
+\par 10 Rosja 975\~338
+\par 11 Brazylia 966\~827
+\par 12 Korea Po\'b3udniowa 892\~008
+\par 13 Indie 849\~905
+\par 14 Meksyk 846\~782
+\par 15 Australia 729\~165
+\par 16 Holandia 624\~885
+\par 17 Turcja 414\~079
+\par 18 Belgia 373\~273
+\par 19 Szwajcaria 360\~586
+\par 20 Szwecja 359\~463
+\par \emdash  \emdash  \emdash 
+\par 23 Polska 320 763
+\par }\pard \ql \li0\ri0\sb100\sa100\sl360\slmult1\nowidctlpar\faauto\rin0\lin0\itap0\pararsid3227215 {\insrsid11547196 
+\par 
+\par }{\insrsid11020241 
+\par }{\insrsid7672047 
+\par }{\insrsid13193577 \line 
+\par }{\insrsid6822026 4.2}{\insrsid10445483\charrsid10445483  Rola handlu zagranicznego w rozwoju gospodarczym}{\insrsid13193577 
+\par }{\insrsid4667952 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid594992 Bardzo wa\'bfnym aspektem w gospodarce opartej na wiedzy jest rozwijanie handlu zagranicznego. }{
+\insrsid3227215\charrsid3227215 Handel zagraniczny polega na odplatnej wymianie towarow i usulg miedzy kontrahentami majacymi sta\'b3\'b9
+ siedzibe w roznych krajach. Sens ekonomiczny handlu zagranicznego polega na uzupelnieniu brakujacych dobr oraz wykorzystaniu roznic kosztow produkcji okreslonych towarow w kraju i za granic\'b9. \line Przedsi\'eabiorcy w \'bfadnym pa\'f1stwie nie s\'b9
+ w stanie wyprodukowa\'e6 wszystkich d\'f3br niezb\'eadnych dla jego poprawnego funkcjonowania. Cz\'ea\'9c\'e6 z nich bardziej si\'ea op\'b3aca sprowadzi\'e6 z innego kraju. Tu pojawia si\'ea poj\'eacie handlu zagranicznego, kt\'f3ry polega na odp\'b3
+atnej wymianie towar\'f3w i d\'f3br mi\'eadzy kontrahentami maj\'b9cymi swoje siedziby w r\'f3\'bfnych krajach. Ten typ handlu pozwala na uzupe\'b3nienie tych d\'f3br, kt\'f3re brakuj\'b9 na danym terenie. Jednak wsp\'f3\'b3cze\'9cnie du\'bf
+ego znaczenia nabiera mo\'bfliwo\'9c\'e6 wykorzystania r\'f3\'bfnic koszt\'f3w produkcji w poszczeg\'f3lnych krajach. 
+\par Rozw\'f3j handlu zagranicznego jest motywowany nast\'eapuj\'b9cymi czynnikami : 
+\par - odmienna struktura gospodarcza poszczeg\'f3lnych pa\'f1stw, 
+\par - zr\'f3\'bfnicowany poziom techniczny osi\'b9gni\'eaty przez dany kraj, 
+\par - warunki klimatyczne 
+\par - nier\'f3wny podzia\'b3 surowc\'f3w na Ziemi. 
+\par Operacja handlu zagranicznego 
+\par Handel zagraniczny sk\'b3ada si\'ea z nast\'eapuj\'b9cych operacji gospodarczych : 
+\par - eksport - to sprzeda\'bf krajowych towar\'f3w, lub \'9cwiadczenie us\'b3ug kontrahentowi zagranicznemu, 
+\par - import - polega na nabywania d\'f3br ---zagranic\'b9--- i przewo\'bfeniu ich do kraju, 
+\par - reeksport - importowany towar jest sprzedawany powt\'f3rnie za granic\'ea np. zakup towaru w Rosji i ich eksport do Niemiec, 
+\par - tranzyt - polega na przewo\'bfeniu towar\'f3w z jednego kraju do drugiego przez terytorium trzeciego. }{\insrsid3227215 
+\par }{\insrsid594992\charrsid3227215 
+\par }{\insrsid3227215\charrsid3227215 Zakres handlu 
+\par Handel zagraniczny obejmuje : 
+\par -obroty towarowe i us\'b3ugowe, 
+\par - obroty dobrami niematerialnymi w tym : 
+\par - know-how - pozyskanie wiedzy jak wytwarza\'e6 dane dobro, dokumentacja techniczna, receptura, instrukta\'bf, 
+\par - licencja - uprawnienie do wykorzystania rozwi\'b9za\'f1 naukowych chronionych patentami lub prawami autorskimi np. zakup wynalazku, 
+\par - leasing - polega na wydzier\'bfawieniu maszyn, urz\'b9dze\'f1 itp. importer mo\'bfe z nich korzysta\'e6 bez konieczno\'9cci zakupu, 
+\par -migracj\'ea si\'b3y roboczej, 
+\par - obroty kapita\'b3owe np. inwestycje, kredyty. 
+\par Rodzaje polityki pa\'f1stwa wobec handlu 
+\par Polityk\'ea i stosunek pa\'f1stwa do handlu zagranicznego mo\'bfe by\'e6 skrajnie r\'f3\'bfny, ale w zasadzie mo\'bfna wymieni\'e6 dwa g\'b3\'f3wne sposoby post\'eapowania pa\'f1stwa : 
+\par - polityka wolnego handlu -pa\'f1stwo nie ingeruje w handel, nie okre\'9cla jego wielko\'9cci. Uwa\'bfa bowiem, \'bfe handel ten przynosi du\'bfe korzy\'9cci, w tym zwi\'eakszaj\'b9c konkurencj\'ea pozwala na podnoszenie jako\'9c
+ci i spadek cen. Wolny handel wzmaga innowacyjno\'9c\'e6 i pozwala na utrzymanie wydajno\'9cci na wysokim poziomie, 
+\par - polityka protekcyjna - pa\'f1stwo reguluje obroty handlowe, maj\'b9c na celu ochron\'ea w\'b3asnego rynku przed nap\'b3ywem obcych towar\'f3w. Przejawia si\'ea nie tylko ochron\'b9 w\'b3asnego rynku , ale i wspieraniem krajowego eksportu.
+ Polityka protekcyjna przynosi okre\'9clone korzy\'9cci w kr\'f3tkim okresie czasu (spadek importu, ochrona w\'b3asnych firm) ale w d\'b3u\'bfszym terminie powoduje wzrost cen, spadek wydajno\'9cci i zacofanie technologiczne, zw\'b3
+aszcza w takim kraju jak Polska. 
+\par Polityka protekcyjna 
+\par Polityka protekcyjna pa\'f1stwa mo\'bfe si\'ea przejawia\'e6 przez : 
+\par - nak\'b3adanie ce\'b3, czyli op\'b3aty pobieranej przez pa\'f1stwo przy przywozie, przewozie lub wywozie towar\'f3w poza terytorium danego kraju. C\'b3a mog\'b9 by\'e6 (ze wzgl\'eadu na cel) : 
+\par - ochronne - w celu ochrony rodzimego rynku z wa\'bfnych powod\'f3w np. przemiany gospodarcze, 
+\par - fiskalne - najcz\'ea\'9cciej nak\'b3adane na dobra luksusowe w celu zdobycia przez bud\'bfet dodatkowych przychod\'f3w, 
+\par - antydumpingowe - wyr\'f3wnuj\'b9 cen\'ea towaru, kt\'f3ry jest sprzedawany poni\'bfej koszt\'f3w jego wytworzenia, np. w stosunku do ceny \'9cwiatowej, 
+\par - odwetowe - na\'b3o\'bfenie ce\'b3 w odpowiedzi na podobne dzia\'b3ania partnera handlowego, 
+\par \'b7-stosowanie op\'b3at wyr\'f3wnawczych - podobne do ce\'b3 antydumpingowy, maj\'b9 charakter zmienny i bardziej elastyczny, powszechnie stosowane przez Uni\'ea Europejsk\'b9, 
+\par -ograniczenia ilo\'9cciowe (kontyngenty) - pa\'f1stwo przyznaje innemu pa\'f1stwu lub producentowi okre\'9clony limit, kt\'f3ry pozwala na import tylko okre\'9clonej liczby towar\'f3w. Dzia\'b3ania te mog\'b9 towarzyszy\'e6 generalnemu zakazowi im
+portu danego towaru. Narz\'eadzie dosy\'e6 korupcjogenne, 
+\par - narzucanie barier administracyjnych i technologicznych - dotycz\'b9 dodatkowych warunk\'f3w jakie musi przedsi\'eabiorstwo sprowadzaj\'b9ce towary lub us\'b3ugi ,np. normy zdrowotne, ochrony \'9crodowiska, bezpiecze\'f1stwa pracy. Stanowi\'b9 du\'bf\'b9
+ zapor\'ea dla przedsi\'eabiorc\'f3w z kraj\'f3w s\'b3abiej rozwini\'eatych dla wej\'9ccia na rynki pa\'f1stw zachodnich (zw\'b3aszcza Unii Europejskiej). 
+\par - wspieranie w\'b3asnego eksportu - poprzez jego promocj\'ea lub dop\'b3acanie do niego. 
+\par Porozumienia mi\'eadzynarodowe 
+\par Jak ju\'bf wcze\'9cniej wspominali\'9cmy wiele pa\'f1stw protekcyjnie chroni sw\'f3j rynek. Pod tym wzgl\'eadem szczeg\'f3lnie aktywna jest Unia Europejska, na terenie, kt\'f3rej nie obowi\'b9zuj\'b9 c\'b3a, ale eksport towar\'f3
+w do niej natrafia na wiele ogranicze\'f1. Unia stosuje wiele op\'b3at wyr\'f3wnawczych i c\'b3a antydumpingowe, zw\'b3aszcza na produkty rolnicze. Odnosz\'b9c si\'ea bardziej wstecz, aby zapobiec nadmiernie protekcyjnej polityce rz\'b9d\'f3
+w, w 1947r. podpisano Uk\'b3ad Og\'f3lny o C\'b3ach I Handlu (GATT). Jego celem by\'b3a liberalizacja i zlikwidowanie dyskryminacji w handlu. Zasady GATT : 
+\par - bezwarunkowa klauzula najwy\'bfszego uprzywilejowania - jednolita polityka celna wobec wszystkich partner\'f3w handlowych danego pa\'f1stwa, 
+\par - klauzula wzajemno\'9cci - \'bfadne pa\'f1stwo nie by\'b3o zobowi\'b9zane do obni\'bfki ce\'b3 bez gwarancji takiego samego post\'eapowania partnera, 
+\par - r\'f3wne traktowanie produkt\'f3w krajowych i importowanych. }{\insrsid3227215 
+\par }{\insrsid594992 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \qc \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3636555 {\insrsid594992 V Wnioski
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid594992 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid151981 {\insrsid594992 Jak widzimy budowanie nowoczesnej gospodarki opartej na wiedzy to bardzo skomplikowany, a zarazem d\'b3ugofalowy proces uzale\'bf
+niony od }{\insrsid7035980 wielu}{\insrsid594992  czynnik\'f3w. Jedn}{\insrsid3560230 ym}{\insrsid594992  z g\'b3\'f3wnych r\'f3l odgrywa tu tworzenie odpowiedniego dla potrzeb rynku kapita\'b3u ludzkiego. Mo\'bfliwe jest to }{\insrsid15555116 dzi\'ea
+ki zach\'eacaniu}{\insrsid594992  ludzi przez odpowiednie organy pa\'f1stwa do edukacji na odpowiadaj\'b9cych potrzebom }{\insrsid3046032 rynkowym }{\insrsid594992 kierunkach. Mo\'bfna to robi\'e6 poprzez wprowadzenie system\'f3w stypendialnych lub te\'bf
+ innych \'9cwiadcze\'f1 materialnych i niematerialnych. }{\insrsid3046032 Tylko to zapewni odpowiedni\'b9 kadr\'ea niezb\'eadn\'b9 do budowania nowoczesnej gospodarki. Nowoczesna gospodarka oparta jest przede wszystkim na us\'b3ugach, kt\'f3re stanowi\'b9
+ w oko\'b3o 2/3 ca\'b3o\'9cci PKB, a ich udzia\'b3 ci\'b9gle wrasta. Zjawisko wzrostu udzia\'b3u us\'b3ug w PKB zacz\'ea\'b3o wyst\'eapowa\'e6 (w najbardziej rozwini\'eatych w\'f3wczas pa\'f1stwach) od pocz\'b9
+tku XX wieku. Obecnie zjawisko to dynamicznie nast\'eapuje w krajach postkomunistycznych oraz w najbardziej rozwini\'eatych krajach Ameryki Po\'b3udniowej, oraz Azji(opr\'f3cz Japonii, Singapuru, Korei p\'b3d. }{\insrsid2450811 k}{\insrsid3046032 t\'f3re}
+{\insrsid2450811  ju\'bf }{\insrsid3046032  nale\'bf\'b9 do pa\'f1stw wysoko rozwini\'eatych)}{\insrsid151981 
+\par Innym wa\'bfnym aspektem rozwoju gospodarki opartej na wiedzy s\'b9 powi\'b9zania mi\'eadzynarodowe oraz wymiana handlowa. W dzisiejszych czasach mo\'bfna m\'f3wi\'e6, i\'bf w}{\insrsid151981\charrsid788747 sp\'f3\'b3czesna gospodarka jest gospodark\'b9
+ globaln\'b9, z }{\insrsid3636555 licznymi}{\insrsid151981\charrsid788747  powi\'b9zaniami }{\insrsid2450811 zar\'f3wno ekonomicznymi jak i kulturowymi.}{\insrsid151981 
+\par  }{\insrsid3636555 Mo\'bfemy}{\insrsid151981\charrsid788747  m\'f3wi\'e6 o }{\insrsid3636555 systemie gospodarek narodowych tworz\'b9cych jedn\'b9 }{\insrsid2450811 globaln\'b9 sie\'e6 co przyczynia si\'ea do}{\insrsid3156088  wyr\'f3wnywa}{
+\insrsid2450811 nia}{\insrsid3156088  si\'ea poziomu \'bfycia oraz coraz szybsze}{\insrsid2450811 go}{\insrsid3156088  budowani}{\insrsid2450811 a}{\insrsid3156088  nowoczesnej gospodarki w wi\'eakszo\'9cci pa\'f1stw \'9cwiata }{
+\insrsid151981\charrsid788747 
+\par }\pard \ql \li0\ri0\sl360\slmult1\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0\pararsid3227215 {\insrsid151981\charrsid10445483 
+\par }}

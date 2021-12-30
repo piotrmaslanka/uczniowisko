@@ -1,0 +1,11 @@
+<specification>
+<table name="purchase">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="fk_worder" type="int" signed="no" null="no" />
+    <field name="activated" type="int" signed="no" null="no" />
+    <field name="vkey" type="char" len="40" null="no" />
+    <primary name="id" />
+    <index name="fk_worder" />
+    <index name="vkey" />
+</table>
+</specification>

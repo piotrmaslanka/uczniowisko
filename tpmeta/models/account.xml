@@ -1,0 +1,23 @@
+<specification>
+<table name="account">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="fk_tpusers" type="int" signed="no" null="no" />
+    
+    <field name="name" type="varchar" len="20" null="no" />
+    <field name="surname" type="varchar" len="40" null="no" />
+    <field name="address" type="varchar" len="60" null="no" /> <!-- street and house number -->
+    <field name="postal" type="char" len="6" null="no" />
+    <field name="city" type="varchar" len="30" null="no" />
+    <field name="email" type="varchar" len="60" />
+    <field name="phone" type="varchar" len="15" />
+    <field name="gg" type="varchar" len="12" />
+    <field name="bankaccount" type="varchar" len="26" />
+    <field name="school" type="varchar" len="50" />
+    
+    <field name="cash" type="int" signed="no" null="no" default="0"/> <!-- counted in Grosze -->
+    
+    <primary name="id" />
+    
+    <index name="fk_tpusers" />
+</table>
+</specification>

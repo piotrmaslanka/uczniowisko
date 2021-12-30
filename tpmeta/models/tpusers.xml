@@ -1,0 +1,13 @@
+<specification>
+<table name="tpusers">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="username" type="varchar" len="40" null="no" />
+    <field name="password" type="char" len="40" null="no" />
+    <field name="token" type="varchar" len="50" />
+    <field name="registry" type="text" />
+    <field name="privileges" type="text" />
+    <field name="licenses" type="text" />
+    <field name="type" type="int" null="yes" />
+    <primary name="id" />
+</table>
+</specification>

@@ -1,0 +1,10 @@
+<specification>
+<table name="free">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="title" type="varchar" len="50" />
+    <field name="body" type="text" />
+    <field name="fk_category" type="int" signed="no" />
+    <primary name="id" />
+    <index name="fk_category" />
+</table>
+</specification>

@@ -1,0 +1,15 @@
+<specification>
+<table name="comment">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="fk_account" type="int" signed="no" null="no" />
+    <field name="fk_work" type="int" signed="no" null="no" />
+    <field name="added" type="int" signed="no" null="no" />
+    <field name="data" type="text" null="no" />
+    <field name="nick" type="varchar" len="40" />
+    <field name="status" type="tinyint" null="no" default="0" />
+    	<!-- 0 - not reviewed, 1 - reviewed and published -->
+    <primary name="id" />
+    <index name="fk_account" />
+    <index name="fk_work" />
+</table>
+</specification>

@@ -1,0 +1,18 @@
+<specification>
+<table name="worder">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="fk_account" type="int" signed="no" null="no" />
+    <field name="ordered"       type="int" signed="no" null="no" />
+    	<!--  like in, when ordered -->
+    <field name="state"      type="int" signed="no" null="no" default="0"/>
+    			<!-- 0 - under review, 1 - paid and sent, 2 - comment set -->
+    <field name="email" type="varchar" len="30" null="no" />
+    <field name="fk_work" type="int" signed="no" null="no" />
+    <field name="adnots" type="text"/>
+    
+    <primary name="id" />
+    
+    <index name="fk_account" />
+    <index name="fk_work" />
+</table>
+</specification>

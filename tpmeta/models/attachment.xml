@@ -1,0 +1,9 @@
+<specification>
+<table name="attachment">
+    <field name="id" type="int" signed="no" auto_increment="yes" />
+    <field name="filename" type="varchar" len="40" null="no" />
+    <field name="fk_work" type="int" signed="no" null="no" />
+    <field name="description" type="varchar" len="30" null="no" />     
+    <primary name="id" />
+</table>
+</specification>
